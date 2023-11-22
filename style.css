@@ -23,7 +23,7 @@ header {
     width: 100%;
     height: 100vh;
     background-image: url(Picsart_23-11-21_20-24-34-199.png);
-    background-size: 100% 100%;
+    background-size: cover;
 }
 
 header .layer nav {
@@ -35,7 +35,7 @@ header .layer nav {
 .layer {
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.550);
+    background-color: rgba(0, 0, 0, 0.700);
 }
 
 header .layer button {
